@@ -69,9 +69,9 @@ struct Student {
 // امسح الكود واكتبه بطريقتك المبدعة 😍
 var students: [Student] =
     [
-        Student(name: "ريم خالد", track: "iOS", gender: "female"),
-        Student(name: "صالح شهاب", track: "WEB", gender: "male"),
-        Student(name: "محمد علي", track: "Android", gender: "male")
+        Student(name: "ريم خالد", track: "iOS", gender: "girl"),
+        Student(name: "صالح شهاب", track: "WEB", gender: "boy"),
+        Student(name: "محمد علي", track: "Android", gender: "boy")
     ]
 
 
